@@ -8,7 +8,7 @@ then
 ```
 sh start.sh 
 ```
->Shortcut (Widget)
+>Shortcut (Widget) - Existing installation
 ```
 wget https://raw.githubusercontent.com/mahipat99/jtvserver/main/shortcut.sh;sh shortcut.sh
 ```
@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/mahipat99/jtvserver/main/shortcut.sh;sh s
 pkg in wget -y && hash -r && wget https://raw.githubusercontent.com/mahipat99/jtvserver/main/install-auto.sh;sh install-auto.sh
 ```
 
->Auto start (Boot) - Existing install
+>Auto start (Boot) - Existing installation
 ```
 wget https://raw.githubusercontent.com/mahipat99/jtvserver/main/current.sh;sh current.sh
 ```
